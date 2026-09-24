@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      id="Filled"
-     viewBox="0 0 24 24"
+     viewBox="0 0 4140 4140"
      width="512"
      height="512">
 
@@ -21,7 +21,7 @@
     <g transform="translate(0.000000,1440.000000) scale(0.100000,-0.100000)"
        fill="url(#blueGradient)" 
        stroke="url(#blueGradient)"
-       stroke-width="300"
+       stroke-width="600"
        stroke-linejoin="round"
        stroke-linecap="round">
        
