@@ -17,11 +17,11 @@
         </linearGradient>
     </defs>
 
-    <!-- Ongeza au punguza namba ya stroke-width (mfano: 30, 50, au 80) kulingana na unene unaotaka -->
+    <!-- Tunatumia stroke-width ya 8 hadi 15 ili kutoa unene wa kutosha bila kuziba nafasi za ndani -->
     <g transform="translate(0.000000,1440.000000) scale(0.100000,-0.100000)"
        fill="url(#blueGradient)" 
        stroke="url(#blueGradient)"
-       stroke-width="400"
+       stroke-width="120"
        stroke-linejoin="round"
        stroke-linecap="round">
        
